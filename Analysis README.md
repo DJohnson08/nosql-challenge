@@ -1,7 +1,6 @@
-Detailed Review of the Code Files
+The two Files we used were analysis and construcing of code with noSQL. 
 
-File 1: NoSQL_analysis_starter.ipynb
-Purpose: This notebook is set up for exploratory data analysis on a MongoDB database, with instructions for analyzing the data in a structured way.
+File 1: NoSQL_analysis_starter
 
 First Steps:
 Initialization of a MongoClient to connect to a MongoDB instance running on the default port (27017).
@@ -14,8 +13,7 @@ Potential Improvements: Ensure all code is well-documented for clarity, especial
 Include examples or placeholders for specific queries to guide the user further.
 
 
-File 2: NoSQL_setup_starter.ipynb
-Purpose: This notebook focuses on setting up the database and importing data into MongoDB.
+File 2: NoSQL_setup_starter
 
 Code Cells: Basic setup includes creating a MongoDB client and confirming the database's existence.
 Likely acts as a starting point for configuring the database before analysis.
