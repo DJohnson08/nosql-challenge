@@ -3,9 +3,7 @@ Detailed Review of the Code Files
 File 1: NoSQL_analysis_starter.ipynb
 Purpose: This notebook is set up for exploratory data analysis on a MongoDB database, with instructions for analyzing the data in a structured way.
 
-Key Observations:
-
-Code Cells:
+First Steps:
 Initialization of a MongoClient to connect to a MongoDB instance running on the default port (27017).
 Assignment of the uk_food database to a variable, suggesting the database was pre-populated with data for analysis.
 Further analysis steps (not fully reviewed yet) are likely built around querying the database and converting results to Pandas DataFrames.
@@ -18,8 +16,6 @@ Include examples or placeholders for specific queries to guide the user further.
 
 File 2: NoSQL_setup_starter.ipynb
 Purpose: This notebook focuses on setting up the database and importing data into MongoDB.
-
-Key Observations:
 
 Code Cells: Basic setup includes creating a MongoDB client and confirming the database's existence.
 Likely acts as a starting point for configuring the database before analysis.
