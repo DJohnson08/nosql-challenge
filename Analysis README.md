@@ -1,3 +1,6 @@
+Revised some of my code with help of class resources, online tools, and tutor help.
+
+
 The two Files we used were analysis and construcing of code with noSQL. 
 
 File 1: NoSQL_analysis_starter
